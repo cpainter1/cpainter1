@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h3 align="center"><img src = https://github.com/brittain9/brittain9/blob/main/computer.gif width=500px></h3>
 <!--
 **loliamcoolbro/loliamcoolbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
