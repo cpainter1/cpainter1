@@ -1,16 +1,15 @@
-### Hi there 👋
-<h3 align="center"><img src = https://github.com/brittain9/brittain9/blob/main/computer.gif width=500px></h3>
-<!--
-**loliamcoolbro/loliamcoolbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there! 👋</h1>  
+<h6 align="center">High School Student | Aspiring Developer</h6>  
 
-Here are some ideas to get you started:
+My name is Caleb, and I'm a high school student with a passion for exploring **programming** and **cybersecurity**. I'm always eager to learn new technologies, tackle challenging problems, and expand my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skillset 🧰
+- 👨‍💻 **Languages:** Python, Java
+- 🌱 **Currently Learning:** Go, C++
+- 🛠️ **Tools:** Pandas, NumPy, Discord.py (py-cord), Firebase/Firestore
+
+### Current Projects 🚧
+- 🔐 **PassLock**
+  > Simple and secure password manager in Go
+- 🤖 **Ryder**
+  > Customizable Discord bot in Python
