@@ -13,5 +13,5 @@ My name is Caleb, and I'm a high school student with a passion for exploring **p
   > Simple and secure password manager in Go
 - 🖥️ **NetTrace**
   > A lightweight and open source tool written in Go for passively monitoring and visualizing network port activity for easy inspection and analysis
-- 🤖 **Ryder**
-  > Customizable Discord bot in Python
+- 🤖 **Check**
+  > A customizable project management utility bot in Discord written in Python
